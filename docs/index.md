@@ -9,8 +9,10 @@ hero:
   actions:
     - theme: brand     
       text: vue3传参
-      link: component-parameter-passing
-    
+      link: component-param-pass
+    - theme: cicd
+      text: CICD
+      link: CICD
 
 features:
   - title: 前端
